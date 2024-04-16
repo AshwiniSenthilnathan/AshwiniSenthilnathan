@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshwiniSenthilnathan
-- 👀 I’m interested in meeting new people and expanding my network!
-- 🌱 I’m currently learning Python to enhance my analytical skills
+- 👀 I have a keen interest in tech innovations and leveraging data to make strategic business decisions
+- 🌱 I’m currently improving my proficiency in Python to further enhance my analytical skills
 - 📫 How to reach me ashwiniksenthil@gmail.com
 
 <!---
